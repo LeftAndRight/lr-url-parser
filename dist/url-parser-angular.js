@@ -1,4 +1,8 @@
-/**
+angular.module("leftandright.URLParser", [
+	"RootClass"
+])
+	.factory("URLParser", [function(){
+		/**
  * Class used for parsing and rebuilding urls
  */
 // parseUri 1.2.2
@@ -149,3 +153,6 @@ var URLParser = RootClass.extend(
         }
     }
 );
+
+		return URLParser;
+	}]);
