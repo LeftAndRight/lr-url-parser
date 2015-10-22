@@ -1,7 +1,7 @@
 angular.module("leftandright.URLParser", [
 	"RootClass"
 ])
-	.factory("URLParser", [function(){
+	.factory("URLParser", ["RootClass", function(RootClass){
 		/**
  * Class used for parsing and rebuilding urls
  */
