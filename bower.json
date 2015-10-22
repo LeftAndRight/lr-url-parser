@@ -1,0 +1,21 @@
+{
+  "name": "url-parser",
+  "homepage": "https://github.com/LeftAndRight/url-parser",
+  "authors": [
+    "Jonathan Beech <jon@leftandright.co.za>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rootclass": "0.0.5"
+  }
+}
