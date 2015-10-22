@@ -10,10 +10,10 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
     "test",
-    "tests"
+    "src",
+    "Gruntfile.js",
+    "package.json"
   ],
   "dependencies": {
     "rootclass": "0.0.5"
