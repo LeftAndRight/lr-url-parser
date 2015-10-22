@@ -1,6 +1,6 @@
 {
-  "name": "url-parser",
-  "homepage": "https://github.com/LeftAndRight/url-parser",
+  "name": "lr-url-parser",
+  "homepage": "https://github.com/LeftAndRight/lr-url-parser",
   "authors": [
     "Jonathan Beech <jon@leftandright.co.za>"
   ],
